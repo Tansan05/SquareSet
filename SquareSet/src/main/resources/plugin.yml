@@ -1,0 +1,6 @@
+name: SquareSet
+version: '${project.version}'
+main: me.tansan.squareset.SquareSet
+api-version: 1.19
+commands:
+  teleport:
